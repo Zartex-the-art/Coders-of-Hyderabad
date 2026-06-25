@@ -1,4 +1,4 @@
-# Coders of Hyderabad 🏙️
+# Coders of Hyderabad 
 
 A data analytics project modeling the software engineering workforce of Hyderabad — inspired by the popular **Coders of Delhi** / **Coders of Bangalore** city-based analytics projects.
 
@@ -6,7 +6,7 @@ This project analyzes a synthetic dataset of **5,000 software engineers** across
 
 ---
 
-## 📌 Why Synthetic Data?
+## Why Synthetic Data?
 
 Hyderabad's tech workforce data is fragmented across job portals, salary-sharing sites, and professional networks — there is no single legal, public source that provides per-engineer salary, skill, and company data at this granularity. Scraping platforms like LinkedIn or Glassdoor for individual compensation data also violates their terms of service.
 
@@ -21,7 +21,7 @@ This calibration is what separates the dataset from a randomly generated one —
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 coders-of-hyderabad/
@@ -34,7 +34,7 @@ coders-of-hyderabad/
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 **5,000 rows × 23 columns**, covering:
 
@@ -51,7 +51,7 @@ coders-of-hyderabad/
 
 ---
 
-## ❓ Key Questions Explored
+##  Key Questions Explored
 
 1. Which companies/company categories offer the highest compensation?
 2. Which technical skills command the highest salary premium?
@@ -64,7 +64,7 @@ coders-of-hyderabad/
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 | Question | Finding |
 |---|---|
@@ -79,7 +79,7 @@ coders-of-hyderabad/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** — pandas, NumPy, Faker (synthetic data generation)
 - **Visualization** — Matplotlib, Seaborn
@@ -88,7 +88,7 @@ coders-of-hyderabad/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 # 1. Install dependencies
@@ -105,7 +105,7 @@ The notebook is pre-executed — all charts and outputs render immediately on op
 
 ---
 
-## 📈 Sample Visualizations
+##  Sample Visualizations
 
 The notebook includes:
 - Compensation distribution by company category (boxplots)
@@ -117,13 +117,13 @@ The notebook includes:
 
 ---
 
-## 🎯 Motivation
+##  Motivation
 
 This project was built to demonstrate large-scale structured data analysis, statistical insight generation, and data storytelling — skills directly relevant to data analyst and data engineer roles. It follows the same city-based analytics format popularized by **Coders of Delhi** and **Coders of Bangalore**, applied to Hyderabad's distinct tech ecosystem.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Thumma Abhishek Reddy**
 Final-year B.Tech CSE, Sreenidhi Institute of Science and Technology (SNIST)
